@@ -1,7 +1,7 @@
 {
     "name": "osw3/uri",
     "description": "Parse and manipulate URI, URL and URN.",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "layershifter/tld-extract": "^2.0"
     },
