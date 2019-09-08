@@ -1,0 +1,19 @@
+{
+    "name": "osw3/uri",
+    "description": "Parse and manipulate URI, URL and URN.",
+    "minimum-stability": "dev",
+    "require": {
+        "layershifter/tld-extract": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "OSW3",
+            "email": "contact@osw3.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "OSW3": "src/"
+        }
+    }
+}
